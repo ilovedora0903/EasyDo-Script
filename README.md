@@ -8,6 +8,9 @@ For example: </br>
 In Game -> Auto cast the skills </br>
 In Daily Life -> Auto execute what you want to do (Repetitive).
 
+## Update:
+Ver 1.0.0 (BETA version) released in 2019/11/15</br>
+
 ## Features:
 ．Auto execute script command </br>
 ．Highly customizable </br>
